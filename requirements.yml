@@ -9,4 +9,5 @@ collections:
   - name: cyberark.pas
   - name: community.windows
   - name: ansible.windows
+  - name: amazon.aws
 
