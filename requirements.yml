@@ -1,17 +1,8 @@
 ---
 collections:
-  - name: amazon.aws
-  - name: amazon.cloud
-    type: git
-    source: https://github.com/ansible-collections/amazon.cloud.git
   - name: ansible.utils
   - name: ansible.controller
-  - name: awx.awx
-  - name: cloud.terraform
-    type: git
-    source: https://github.com/ansible-collections/cloud.terraform.git
   - name: community.aws
-  - name: community.digitalocean
   - name: community.general
   - name: containers.podman
   - name: ansible.posix
