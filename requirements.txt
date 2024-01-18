@@ -5,3 +5,8 @@ xmltodict
 
 # Proxmox
 proxmoxer
+
+#winrm
+pywinrm[credssp]
+pywinrm[kerberos]
+kerberos
