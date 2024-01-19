@@ -10,4 +10,6 @@ collections:
   - name: community.windows
   - name: ansible.windows
   - name: amazon.aws
-
+  - name: amazon.cloud
+    type: git
+    source: https://github.com/ansible-collections/amazon.cloud.git

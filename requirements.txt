@@ -9,3 +9,7 @@ proxmoxer
 #winrm
 pywinrm[credssp]
 pywinrm[kerberos]
+
+#aws
+botocore
+boto3
